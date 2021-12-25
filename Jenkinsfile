@@ -11,7 +11,7 @@ stages{
     stage ('check JAVAAAAA Version') {
 
         steps{
-
+           echo "checking Java Version.."
            sh 'java -version'
           
         }
