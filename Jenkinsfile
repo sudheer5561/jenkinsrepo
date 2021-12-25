@@ -8,7 +8,7 @@ agent {
 
 stages{
 
-    stage ('check JAVA Version') {
+    stage ('check JAVAAAAA Version') {
 
         steps{
 
