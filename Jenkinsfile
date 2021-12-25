@@ -1,8 +1,9 @@
+@library('saiprisha') _
 pipeline {
 
 agent {
 
-    label 'Slave1'
+    label 'master'
 }
 
 stages{
