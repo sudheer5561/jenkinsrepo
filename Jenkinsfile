@@ -1,4 +1,4 @@
-@library('saiprisha') _
+@Library('saiprisha') _
 pipeline {
 
 agent {
