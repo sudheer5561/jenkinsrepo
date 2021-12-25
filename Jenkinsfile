@@ -14,9 +14,20 @@ stages{
             sh 'java -version'
         }
 
+    stage ('calling the function') {
+
+        steps {
+
+            welcomefun 'Sudheer'
+
+        }
+    }
+
     }
 
     
 }
 
 }
+
+
